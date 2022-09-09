@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"iOS_TextBoxFail.Windows (Package)": {
+			"commandName": "MsixPackage"
+		},
+		"iOS_TextBoxFail.Windows (Unpackaged)": {
+			"commandName": "Project"
+		}
+	}
+}

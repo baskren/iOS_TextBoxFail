@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "iOS_TextBoxFail.sln",
+    "projects": [
+		"iOS_TextBoxFail.Shared\\iOS_TextBoxFail.Shared.shproj",
+
+
+		"iOS_TextBoxFail.Wasm\\iOS_TextBoxFail.Wasm.csproj",
+
+		"iOS_TextBoxFail.Skia.Gtk\\iOS_TextBoxFail.Skia.Gtk.csproj",
+    ]
+  }
+}
